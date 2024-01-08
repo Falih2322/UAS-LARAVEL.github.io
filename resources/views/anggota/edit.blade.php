@@ -52,7 +52,6 @@
 						<div class="col-sm-8"><input type="submit" class="btn btn-primary shadow" value="Simpan"></div>
 					</div>
 				</form>
-
 			</div>
 		</div>
 	</div>
