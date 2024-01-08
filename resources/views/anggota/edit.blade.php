@@ -6,7 +6,6 @@
 		integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
 </head>
-
 <body>
 	<nav class="navbar navbar-expand-lg navbar-light bg-gray shadow">
 		<div class="container">
